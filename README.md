@@ -9,7 +9,7 @@ Matlab code to carry out the case study in Section 5 of the paper
 1.2) CaseStudy_Data.mat  
 Data for the case study
 
-2) SensitivityAssessment.m
+2.) SensitivityAssessment.m
 Matlab code to carry out the sensitivity assessment in Section 4 of the paper
 
 3.1) Specificity_OneSample_ttest.m
